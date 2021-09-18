@@ -1,0 +1,55 @@
+
+
+
+#map {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background-image: url("bg.jpg");  
+  text-align: center;
+  align-items: center;  
+}
+
+table {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+    height: 120px;
+}
+
+b {
+    font-size: 48px;
+    color:darkorange;
+}
+
+#h2_1 {
+    color: darkviolet;
+}
+
+#h2_2 {
+    color: mediumblue;
+}
+
+#h2_3 {
+    color: red;
+}
+
+footer {
+    text-align: center;
+}
+
+
+
